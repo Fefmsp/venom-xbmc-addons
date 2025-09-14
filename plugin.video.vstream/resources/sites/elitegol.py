@@ -31,7 +31,7 @@ UA = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/5
 channels = {
     20: ['Ligue 1+', 'https://www.lensois.com/wp-content/uploads/2025/07/ligue-1-1.jpg'],
     1: ['bein Sports 1', 'https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_1_Australia.png'],
-#    20: ['DAZN1', 'https://cdn.sincroguia.tv/uploads/images/e/q/k/xdazn1.jpg.pagespeed.ic.oaUemASdvr.jpg'],
+    23: ['DAZN1', 'https://cdn.sincroguia.tv/uploads/images/e/q/k/xdazn1.jpg.pagespeed.ic.oaUemASdvr.jpg'],
     21: ['DAZN2', 'https://cdn.sincroguia.tv/uploads/images/g/8/t/xdazn2.jpg.pagespeed.ic.SKK2xVfOfw.jpg'],
     22: ['DAZN3', 'https://cdn.sincroguia.tv/uploads/images/7/9/t/xdazn3.jpg.pagespeed.ic.BXBiZkQLdS.jpg'],
     40: ['DAZN4', 'https://cdn.sincroguia.tv/uploads/images/m/w/t/xdazn4.jpg.pagespeed.ic.eFrCKmRmJ6.jpg'],
